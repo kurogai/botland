@@ -1,0 +1,14 @@
+{
+    "firstname" : "John",
+    "surname" : "Doe",
+    "text" : {
+        "selfname" : "Hi, my name is",
+        "introduction" : "and i'm a experienced {programmer|software developer|software engineer} and i have experience with {web programming|application development|something} since",
+        "working_since" : "2015"
+    },
+    "settings" : {
+        "max_bind_week" : "3",
+        "counter" : "0"
+    },
+    "FLN_OAUTH_TOKEN" : "WY5xzKBbqRAuxTMwBYMkTGkcSAMIQa"
+}
