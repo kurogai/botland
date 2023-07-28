@@ -5,6 +5,7 @@ How filenames should be generated?
 - MD5 (whatsapp number + first name + surname)
 - File contents should be like this:
 
+<code>
 {
     "firstname" : "John",
     "surname" : "Doe",
@@ -18,6 +19,7 @@ How filenames should be generated?
         "counter" : "0"
     }
 }
+</code>
 
 https://developers.freelancer.com/docs/authentication/creating-a-client
 https://github.com/freelancer/freelancer-sdk-python
